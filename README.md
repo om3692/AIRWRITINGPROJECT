@@ -35,11 +35,13 @@ git clone [https://github.com/YourUsername/AirWritingProject.git](https://github
 cd AirWritingProject
 
 
+
+
 3. Setup Virtual Environment
 python -m venv venv
-# Windows:
+ Windows:
 .\venv\Scripts\activate
-# Mac/Linux:
+ Mac/Linux:
 source venv/bin/activate
 
 4. Install Dependencies
