@@ -52,4 +52,4 @@ pip install opencv-python mediapipe==0.10.9 protobuf==3.20.3 numpy pytesseract
 Run the main application:
 python main.py
  screenshot of working
-<img width="2239" height="1399" alt="Screenshot 2026-03-10 135550" src="https://github.com/user-attachments/assets/2c1f99c1-99f2-4afa-b40e-409c39f0f82f" />
+<img width="1536" height="1024" alt="Hide face with stick" src="https://github.com/user-attachments/assets/5919176c-56c4-461c-a739-04205a0326de" />
