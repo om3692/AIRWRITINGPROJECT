@@ -51,3 +51,5 @@ pip install opencv-python mediapipe==0.10.9 protobuf==3.20.3 numpy pytesseract
 🚀 Usage
 Run the main application:
 python main.py
+ screenshot of working
+<img width="2239" height="1399" alt="Screenshot 2026-03-10 135550" src="https://github.com/user-attachments/assets/2c1f99c1-99f2-4afa-b40e-409c39f0f82f" />
